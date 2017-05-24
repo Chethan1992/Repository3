@@ -1,3 +1,7 @@
 File2 to the repo
 
+<<<<<<< HEAD
 hey guys		
+=======
+signin: how are you
+>>>>>>> signing_feature
